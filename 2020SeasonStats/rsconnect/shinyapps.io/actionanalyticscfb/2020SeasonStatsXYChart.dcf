@@ -1,0 +1,13 @@
+name: 2020SeasonStatsXYChart
+title: 2020SeasonStatsXYChart
+username:
+account: actionanalyticscfb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4461491
+bundleId: 4926665
+url: https://actionanalyticscfb.shinyapps.io/2020SeasonStatsXYChart/
+when: 1629070413.28602
+lastSyncTime: 1629070413.28604
+asMultiple: FALSE
+asStatic: FALSE

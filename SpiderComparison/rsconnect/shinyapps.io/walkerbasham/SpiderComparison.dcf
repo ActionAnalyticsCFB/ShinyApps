@@ -1,0 +1,13 @@
+name: SpiderComparison
+title: SpiderComparison
+username:
+account: walkerbasham
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4519919
+bundleId: 4951207
+url: https://walkerbasham.shinyapps.io/SpiderComparison/
+when: 1629663565.50962
+lastSyncTime: 1629663565.50963
+asMultiple: FALSE
+asStatic: FALSE
